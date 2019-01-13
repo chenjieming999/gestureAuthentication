@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 283
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 514
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -414,7 +414,7 @@
                     "endOffset": 1837
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -433,7 +433,7 @@
                     "endOffset": 1882
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -452,7 +452,7 @@
                     "endOffset": 1927
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -471,7 +471,7 @@
                     "endOffset": 1972
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -490,7 +490,7 @@
                     "endOffset": 2012
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -623,7 +623,7 @@
                     "endOffset": 2585
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -680,7 +680,7 @@
                     "endOffset": 2746
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -699,7 +699,7 @@
                     "endOffset": 2793
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -718,7 +718,7 @@
                     "endOffset": 2844
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -813,7 +813,7 @@
                     "endOffset": 3175
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -832,7 +832,7 @@
                     "endOffset": 3226
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -851,7 +851,7 @@
                     "endOffset": 3277
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -870,7 +870,7 @@
                     "endOffset": 3328
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -889,7 +889,7 @@
                     "endOffset": 3380
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -908,7 +908,7 @@
                     "endOffset": 3432
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -927,7 +927,7 @@
                     "endOffset": 3484
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -946,7 +946,7 @@
                     "endOffset": 3536
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1003,7 +1003,7 @@
                     "endOffset": 3731
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1022,7 +1022,7 @@
                     "endOffset": 3781
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1706,7 +1706,7 @@
                     "endOffset": 6139
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/colors.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3131,7 +3131,7 @@
                     "endOffset": 31099
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/dimens.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -3188,7 +3188,7 @@
                     "endOffset": 31315
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/dimens.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -3207,7 +3207,7 @@
                     "endOffset": 31365
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/dimens.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -3226,7 +3226,7 @@
                     "endOffset": 31420
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/dimens.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -3245,7 +3245,7 @@
                     "endOffset": 31475
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/dimens.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -3397,7 +3397,7 @@
                     "endOffset": 32135
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/dimens.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3701,7 +3701,7 @@
                     "endOffset": 33155
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/dimens.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -3720,7 +3720,7 @@
                     "endOffset": 33198
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/dimens.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -4613,7 +4613,7 @@
                     "endOffset": 36309
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -4632,7 +4632,7 @@
                     "endOffset": 36359
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -4651,7 +4651,7 @@
                     "endOffset": 36413
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -4670,7 +4670,7 @@
                     "endOffset": 36472
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -4689,7 +4689,7 @@
                     "endOffset": 36520
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -4708,7 +4708,7 @@
                     "endOffset": 36581
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -4727,7 +4727,7 @@
                     "endOffset": 36646
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -4746,7 +4746,7 @@
                     "endOffset": 36697
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -4765,7 +4765,7 @@
                     "endOffset": 36746
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -4784,7 +4784,7 @@
                     "endOffset": 36795
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -4803,7 +4803,7 @@
                     "endOffset": 36840
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -4822,7 +4822,7 @@
                     "endOffset": 36889
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -4841,7 +4841,7 @@
                     "endOffset": 36941
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -4860,7 +4860,7 @@
                     "endOffset": 37010
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -4879,7 +4879,7 @@
                     "endOffset": 37065
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -4898,7 +4898,7 @@
                     "endOffset": 37116
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -4917,7 +4917,7 @@
                     "endOffset": 37185
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -4936,7 +4936,7 @@
                     "endOffset": 37237
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -4955,7 +4955,7 @@
                     "endOffset": 37345
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -4974,7 +4974,7 @@
                     "endOffset": 37405
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -4993,7 +4993,7 @@
                     "endOffset": 37456
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -5012,7 +5012,7 @@
                     "endOffset": 37516
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -5031,7 +5031,7 @@
                     "endOffset": 37579
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -5050,7 +5050,7 @@
                     "endOffset": 37632
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -5069,7 +5069,7 @@
                     "endOffset": 37734
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -5088,7 +5088,7 @@
                     "endOffset": 37798
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -5107,7 +5107,7 @@
                     "endOffset": 37846
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -5126,7 +5126,7 @@
                     "endOffset": 37897
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -5145,7 +5145,7 @@
                     "endOffset": 37935
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -5164,7 +5164,7 @@
                     "endOffset": 37988
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -5183,7 +5183,7 @@
                     "endOffset": 38033
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -5202,7 +5202,7 @@
                     "endOffset": 38077
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -5221,7 +5221,7 @@
                     "endOffset": 38131
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -5240,7 +5240,7 @@
                     "endOffset": 38182
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -5259,7 +5259,7 @@
                     "endOffset": 38246
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -5297,7 +5297,7 @@
                     "endOffset": 38337
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -5335,7 +5335,7 @@
                     "endOffset": 38486
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -5354,7 +5354,7 @@
                     "endOffset": 38526
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -5373,7 +5373,7 @@
                     "endOffset": 38593
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -5392,7 +5392,7 @@
                     "endOffset": 38641
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -5411,7 +5411,7 @@
                     "endOffset": 38697
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/strings.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -5507,7 +5507,7 @@
                     "endOffset": 39465
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/styles.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -5527,7 +5527,7 @@
                     "endOffset": 39555
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/styles.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -5546,7 +5546,7 @@
                     "endOffset": 39635
                 },
                 "from": {
-                    "file": "/home/pankaj/Documents/btp/android/Sher-lock2-master/app/src/main/res/values/styles.xml",
+                    "file": "/home/pankaj/Documents/btp/android/gestureAuthentication/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,

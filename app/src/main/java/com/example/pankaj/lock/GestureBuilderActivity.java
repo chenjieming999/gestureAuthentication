@@ -324,13 +324,29 @@ public class GestureBuilderActivity extends ListActivity
         }
     }
 
+
+    public View getViewByPosition(int position, ListView listView) {
+        final int firstListItemPosition = listView.getFirstVisiblePosition();
+        final int lastListItemPosition = firstListItemPosition + listView.getChildCount() - 1;
+
+        if (position < firstListItemPosition || position > lastListItemPosition ) {
+            return listView.getAdapter().getView(position, listView.getChildAt(position), listView);
+        } else {
+            final int childIndex = position - firstListItemPosition;
+            return listView.getChildAt(childIndex);
+        }
+    }
+
     @SuppressWarnings("deprecation")
     @Override
     protected void onListItemClick(ListView l, View v, int position, long id)
     {
 
         // TODO store the name of the user that was clicked
-        mSelectedUserName = ((TextView) l.getChildAt(position)).getText().toString();
+        int i;
+        Log.d("LISTVIEWerror","curent "+position);
+
+        mSelectedUserName = ((TextView) getViewByPosition(position,l)).getText().toString();
         Log.d(GestureBuilderActivity.class.getName(), "User with name " + mSelectedUserName + " was selected");
         showDialog(DIALOG_USER_OPTIONS);
     }
@@ -610,18 +626,36 @@ public class GestureBuilderActivity extends ListActivity
      */
     private void deleteUser(String user)
     {
+
+        //user="himanshu";
         final GesturesAdapter adapter = mAdapter;
         adapter.setNotifyOnChange(false);
 
-        Log.d("filep",mUserDirectory +" EVENT DELETED"+user);
+        Log.d("filep",mUserDirectory +" EVENT DELETE :"+user);
 
         // This could be done better
         for (File file : mUserDirectory.listFiles())
         {
             Log.d("filep"," FILE:"+file.getName());
-            if ((file.getName().equals(user+user)) ||(file.getName().equals(user+user+"E"))||(file.getName().equals(user)))
+            if ((file.getName().equals(user)))
             {
-                file.delete();
+                boolean k=file.delete();
+                Log.d("filep"," DELETED? :"+k);
+                Log.d("filep"," DIRECTORY? :"+file.isDirectory());
+                try {
+                    File tempFolder = new File(file.getPath());
+
+                    for (File f : tempFolder.listFiles()) {
+                        if (!f.isDirectory()) {
+                            f.delete();
+                        }
+                        tempFolder.delete();
+                    }
+                }
+                catch (Exception e) {
+                        e.printStackTrace();
+                    }
+
                 //break;
             }
         }

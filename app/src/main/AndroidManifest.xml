@@ -5,6 +5,8 @@
     android:versionName="0.1.0-SNAPSHOT" >
     <uses-permission android:name="android.permission.WRITE_INTERNEL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_INTERNEL_STORAGE"/>
 
     <uses-sdk
         android:minSdkVersion="19"
